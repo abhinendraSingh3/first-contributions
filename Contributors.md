@@ -3,7 +3,6 @@
 <!-- prettier-ignore-start -->
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Rohit Shah](https://github.com/RohitShah1706)
-- [Utsab Kundu](https://github.com/Utsab5)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
 - [Martins Ngene](https://github.com/Martinsngene)
@@ -34,7 +33,6 @@
 - [Shubhamsk2003](https://github.com/Shubhamsk2003)
 - [Vansh Patel] (https://github.com/vansh-patel-8123/)
 - [Rohit Roy] (https://github.com/rohitroy12)
-- [Mukutmani Das] (https://github.com/mukut-d)
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Kevin] (https://github.com/ZaBarudo)
 - [Alon Cohen] (https://github.com/Alon2904)  
@@ -323,7 +321,7 @@
 - [Tanmay Deopurkar](https://github.com/tanmays62343)
 - [Olorunnishola Olamilekan](https://github.com/Keith-Web3/)
 - [Anne-Marie Nnaedozie](https://github.com/a-nn-t-s)
-
+-[Abhinendra Singh](https://github.com/abhinendraSingh3)
 
 harsh vijay (https://github.com/harshvijay63)
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
